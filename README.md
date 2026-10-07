@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- الهيدر التموجي الأزرق اللطيف -->
+<!-- الهيدر الأزرق التموجي -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Alaa%20Al-Dubai&fontSize=40&animation=fadeIn&fontColor=ffffff&subtext=%F0%9F%A4%96%20Mechatronics%20%26%20Robotics%20Engineering%20Student%20%F0%9F%A1%BE&subfontSize=18&subtextY=68" width="100%" alt="Header Banner"/>
 
 <br>
 
+<!-- صورة بيئة العمل -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="38%"/><br> 
 
+<!-- الاسم الرئيسي والواضح بالمنتصف -->
 <h1> آلاء الدبعي | Alaa AL-Dubai </h1>
 <h3> 🤖 Mechatronics & Robotics Engineering Student 🦾 </h3>
 
-<!-- الروابط والإحصائيات -->
+<!-- عداد المشاهدات الشغال والروابط -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=aldubaialaa18-hash&style=flat-square&color=007ACC&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faldubaialaa18-hash&count_bg=%23007ACC&title_bg=%231565C0&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
   <a href="https://www.linkedin.com/in/alaa-al-dubai-134320341?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
